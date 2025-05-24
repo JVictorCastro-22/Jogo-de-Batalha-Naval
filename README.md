@@ -1,4 +1,4 @@
-📌 Commit Detalhado – Batalha Naval Multiplayer 🚢🎮
+##📌 Commit Detalhado – Batalha Naval Multiplayer 🚢🎮
 📋 Descrição do Projeto
 Este projeto implementa um jogo de Batalha Naval com:
 - Modo multiplayer, permitindo que dois jogadores alternem turnos.
